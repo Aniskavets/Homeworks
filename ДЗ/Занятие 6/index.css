@@ -1,0 +1,20 @@
+
+button{
+
+    height: 50px;
+    width: 100px;
+    background-color: rgb(11, 185, 197);
+    border: solid 3px rgb(8, 206, 156);
+    border-radius: 25px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+.hided{
+    display: none;
+}
+
+

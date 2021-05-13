@@ -1,0 +1,14 @@
+.form{
+    display: flex;
+    flex-direction: column;
+   
+    color: rgb(230, 30, 153);
+    width: 125px;
+
+}
+
+.inputick{
+    background-color: rgb(78, 60, 236);
+    color: rgb(64, 222, 233);
+}
+
